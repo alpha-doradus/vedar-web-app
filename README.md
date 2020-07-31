@@ -30,6 +30,7 @@ python3 server.py
 ## Login y Registro
 
 <img src="GIFs/VedAR -LoginRegister.gif" width=70%>
+
 <img src="GIFs/VedAR - Login Success.gif" width=40%><img src="GIFs/VedAR - Register Success.gif" width=40%>
 
 ### Autenticación y Verificación

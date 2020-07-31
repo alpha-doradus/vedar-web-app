@@ -30,36 +30,46 @@ python3 server.py
 ## Login y Registro
 
 <img src="GIFs/VedAR -LoginRegister.gif" width=70%>
-<img src="GIFs/VedAR - Login Success.gif" width=35%><img src="GIFs/VedAR - Register Success.gif" width=35%>
+<img src="GIFs/VedAR - Login Success.gif" width=20%><img src="GIFs/VedAR - Register Success.gif" width=20%>
 
 ### Autenticación y Verificación
 
 <img src="VedAR/images/VedAR - Login Auth1.jpg" width=20%><img src="VedAR/images/VedAR - Login Auth1.jpg" width=20%><img src="VedAR/images/VedAR - Register Auth.jpg" width=20%>
 
 
+
+
 ## Página de Usuario
 
 <img src="VedAR/images/VedAR - User.jpg" width=70%>
+
 
 ### Configuración de Perfil
 
 <img src="GIFs/VedAR - Settings Success.gif" width=70%>
 
+
 ### Amigos de Usuario
 
 <img src="GIFs/VedAR - Friends Success.gif" width=70%>
 
-### Verificación
+
+#### Verificación
 
 <img src="VedAR/images/VedAR - Friends Auth.jpg" width=70%>
+
 
 ### Mensajes de usuario
 
 <img src="GIFs/VedAR - Message Success.gif" width=70%>
 
+
 #### Verificación
 
 <img src="VedAR/images/VedAR - Message Auth.jpg" width=70%>
+
+
+
 
 ## Sesiones de video
 
@@ -67,10 +77,14 @@ python3 server.py
 
 <img src="GIFs/VedAR - Board.gif" width=70%>
 
+
 ### Avatar
 
 <img src="GIFs/VedAR - Student.gif" width=70%>
-<img src="GIFs/VedAR - Student Agree.gif" width=15%><img src="GIFs/VedAR - Student Disagree.gif" width=15%><img src="GIFs/VedAR -Student Raise Hand.gif" width=15%><img src="GIFs/VedAR - Student Sleep.gif" width=15%>
+<img src="GIFs/VedAR - Student Agree.gif" width=35%><img src="GIFs/VedAR - Student Disagree.gif" width=35%><img src="GIFs/VedAR -Student Raise Hand.gif" width=35%><img src="GIFs/VedAR - Student Sleep.gif" width=35%>
+
+
+
 
 ## Base de Datos (SQLite)
 

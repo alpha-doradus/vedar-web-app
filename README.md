@@ -19,6 +19,7 @@ python3 server.py
 
 ### Back-end
 - Python
+- OpenCV
 - Flask
 - Bcrypt
 - Jinja2

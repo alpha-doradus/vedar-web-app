@@ -30,7 +30,7 @@ python3 server.py
 ## Login y Registro
 
 <img src="GIFs/VedAR -LoginRegister.gif" width=70%>
-<img src="GIFs/VedAR - Login Success.gif" width=20%><img src="GIFs/VedAR - Register Success.gif" width=20%>
+<img src="GIFs/VedAR - Login Success.gif" width=40%><img src="GIFs/VedAR - Register Success.gif" width=40%>
 
 ### Autenticación y Verificación
 
@@ -56,7 +56,7 @@ python3 server.py
 
 #### Verificación
 
-<img src="VedAR/images/VedAR - Friends Auth.jpg" width=70%>
+<img src="VedAR/images/VedAR - Friends Auth.jpg" width=40%>
 
 
 ### Mensajes de usuario
@@ -66,7 +66,7 @@ python3 server.py
 
 #### Verificación
 
-<img src="VedAR/images/VedAR - Message Auth.jpg" width=70%>
+<img src="VedAR/images/VedAR - Message Auth.jpg" width=40%>
 
 
 
@@ -81,7 +81,7 @@ python3 server.py
 ### Avatar
 
 <img src="GIFs/VedAR - Student.gif" width=70%>
-<img src="GIFs/VedAR - Student Agree.gif" width=35%><img src="GIFs/VedAR - Student Disagree.gif" width=35%><img src="GIFs/VedAR -Student Raise Hand.gif" width=35%><img src="GIFs/VedAR - Student Sleep.gif" width=35%>
+<img src="GIFs/VedAR - Student Agree.gif" width=40%><img src="GIFs/VedAR - Student Disagree.gif" width=40%><img src="GIFs/VedAR -Student Raise Hand.gif" width=40%><img src="GIFs/VedAR - Student Sleep.gif" width=40%>
 
 
 

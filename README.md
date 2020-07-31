@@ -74,13 +74,14 @@ python3 server.py
 ## Sesiones de video
 
 ### Tablero
-
+Seguimiento de color para generar tablero en cámara
 <img src="GIFs/VedAR - Board.gif" width=70%>
 
 
 ### Avatar
-
+Face tracking y reacciones de avatar a partir de gestos
 <img src="GIFs/VedAR - Student.gif" width=70%>
+
 <img src="GIFs/VedAR - Student Agree.gif" width=40%><img src="GIFs/VedAR - Student Disagree.gif" width=40%><img src="GIFs/VedAR -Student Raise Hand.gif" width=40%><img src="GIFs/VedAR - Student Sleep.gif" width=40%>
 
 

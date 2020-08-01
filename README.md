@@ -6,7 +6,7 @@ Aplicación web enfocada al sector de la educación que permite realizar llamada
 ```
 python3 server.py
 ```
-2. Abrir la dirección ```127.0.0.1:5000``` o la dirección IP del computador donde está corriendo el servidor ```IP:5000``` con el puerto 5000.
+2. Abrir la dirección ```127.0.0.1:5000/home``` o la dirección IP del computador donde está corriendo el servidor ```IP:5000/home``` con el puerto 5000.
 3. Crear una cuenta o iniciar sesión.
 4. ¡Listo para usar VedAR!
 
